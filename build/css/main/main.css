@@ -1684,6 +1684,9 @@ button, button:hover, button:focus {
     margin-left: auto !important; } }
 
 /* @import "@material/switch/mdc-switch"; */
+.header {
+  background-color: rgba(43, 160, 235, 0.9); }
+
 body {
   font-size: 1.6rem;
   font-family: HelveticaNeue-Regular, Helvetica, Arial, sans-serif;
